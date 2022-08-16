@@ -1,5 +1,6 @@
 # ng-dynamic-component
 
+Fork of ng-dynamic-component with release for angular12 + rxjs7
 > Dynamic components with full life-cycle support for inputs and outputs
 
 [![Travis CI](https://img.shields.io/travis/gund/ng-dynamic-component/master.svg?maxAge=2592000)](https://travis-ci.org/gund/ng-dynamic-component)
